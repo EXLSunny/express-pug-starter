@@ -64,3 +64,5 @@ Lines        : 77.78% ( 84/108 )
 [build-url]: https://circleci.com/gh/sbolel/express-pug-starter
 [codeclimate-image]: https://codeclimate.com/github/sbolel/express-pug-starter/badges/gpa.svg
 [codeclimate-url]: https://codeclimate.com/github/sbolel/express-pug-starter
+
+
